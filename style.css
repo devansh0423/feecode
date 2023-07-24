@@ -1,0 +1,33 @@
+#div1{
+    height: 370px;
+    width: 570px;
+    outline: 5px dotted red;
+    margin: 100px auto;
+    padding-top: 0.1px;
+}
+#div2{
+    height: 340px;
+    width: 540px;
+    background-color: orange;
+    margin: 15px;
+    padding-top: 0.1px;
+}
+#div3{
+    height:300px;
+    width: 500px;
+    background-color: yellow;
+    margin: 20px;
+    padding-top: 0.1px;
+}
+#div4{
+    height: 220px;
+    width: 510px;
+    background-color: skyblue;
+    color: black;
+    margin-left: 28px;
+    margin-top: 23px;
+    padding-top: 0.1px;
+}
+div p,h1{
+    margin: 20px 30px;
+}
